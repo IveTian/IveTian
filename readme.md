@@ -8,7 +8,7 @@ A non-computer related student who loves code and open source. Studying at LZHIT
 - Talk with me by [Email](mailto:tzh894895@gmail.com) or [Telegram](https://t.me/IveTian);
 - Follow me on [Twitter](https://twitter.com/Ive422) [bilibili](https://space.bilibili.com/5636588) or [Weibo](https://weibo.com/2708379770).
 
-## 嗨！我是田梓衡。 👋
+## 嗨，你好呀！我是田梓衡。 👋
 
 一名在校非计算机相关专业的热爱代码与开源的学生，目前就读于柳州工学院。
 
