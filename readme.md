@@ -1,6 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ivetian&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="IveTian's github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IveTian&layout=compact" alt="IveTian's github top lang"/>
-
 ## Hi I'm IveTian 👋
 
 A non-computer related student who loves code and open source. Studying at LZHIT. 
@@ -16,3 +13,6 @@ A non-computer related student who loves code and open source. Studying at LZHIT
 - 如果想了解我更多可以访问我的 [Blog](https://tzih.top/)；
 - 可以通过 [Email](mailto:tzh894895@gmail.com) 或者 [Telegram](https://t.me/IveTian) 与我取得联系；
 - 欢迎在 [Twitter](https://twitter.com/Ive422)、[bilibili](https://space.bilibili.com/5636588) 以及 [Weibo](https://weibo.com/2708379770) 平台上关注我！
+
+<img src="https://github-readme-stats.vercel.app/api?username=ivetian&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="IveTian's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IveTian&layout=compact" alt="IveTian's github top lang"/>
